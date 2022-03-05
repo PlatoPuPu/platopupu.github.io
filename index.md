@@ -1,6 +1,6 @@
 ## 马丁不是牛仔，但马丁很忙
 
-Hello all, welcome to Yijun's github page. For those who know me, you know why it's alos called Martin's page.
+Hello all, welcome to Yijun's github page. For those who know me, you know why it's also called Martin's page.
 
 You can use the [editor on GitHub](https://github.com/PlatoPuPu/platopupu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
